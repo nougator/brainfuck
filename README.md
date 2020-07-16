@@ -1,4 +1,4 @@
-#Brainfuck++
+# Brainfuck
 
 ```
 Brainfuck instruction:
