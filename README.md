@@ -1,5 +1,7 @@
 # Brainfuck
 
+To use simply type `brainfuck pathToYourFile`
+
 ```
 Brainfuck instruction:
   > Move register right
