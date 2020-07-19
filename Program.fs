@@ -1,5 +1,3 @@
-﻿// Learn more about F# at http://fsharp.orgopen System
-open System
 open System
 
 let loadFile (path: string) = IO.File.ReadAllText path
