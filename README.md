@@ -1,6 +1,6 @@
 # Brainfuck
 
-To use simply type `brainfuck pathToYourFile`
+To use simply type `brainfuck pathToYourFile` or `dotnet run pathToYourFile`
 
 ```
 Brainfuck instruction:
